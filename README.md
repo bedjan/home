@@ -1,3 +1,8 @@
+
+<script async src="https://gist.github.com/bedjan/4d012486ec919966b50ef4fd615b071a.js" charset="utf-8">aaa</script>
+
+
+
 # Home [www](https://docs.google.com/document/d/1HHX6lUrBitA7MKG9I4NhMNbLqz6P9LDxsYvNWeiaeWo/edit?usp=sharing)
 
 ### Gist:
