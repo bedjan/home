@@ -1,9 +1,4 @@
-
-https://gist.github.com/bedjan/4d012486ec919966b50ef4fd615b071a#file-poznamky
-
-
-
-# Home [www](https://docs.google.com/document/d/1HHX6lUrBitA7MKG9I4NhMNbLqz6P9LDxsYvNWeiaeWo/edit?usp=sharing)
+# Home [www](https://gist.github.com/bedjan/b00ef16e959fde52334c9ceefea710e0#file-weby-md)
 
 ### Gist:
 
