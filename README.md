@@ -1,5 +1,5 @@
 
-<script async src="https://gist.github.com/bedjan/4d012486ec919966b50ef4fd615b071a.js" charset="utf-8">aaa</script>
+https://gist.github.com/bedjan/4d012486ec919966b50ef4fd615b071a#file-poznamky
 
 
 
