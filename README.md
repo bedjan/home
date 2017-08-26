@@ -1,4 +1,4 @@
-# Home [www](https://docs.google.com/document/d/1HHX6lUrBitA7MKG9I4NhMNbLqz6P9LDxsYvNWeiaeWo/edit?usp=sharing)
+# Home [www](https://gist.github.com/bedjan/db7d216f1237cc02e992e3f8394af831.js)
 
 ### Gist:
 
