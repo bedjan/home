@@ -1,5 +1,15 @@
 # Home [www](https://gist.github.com/bedjan/db7d216f1237cc02e992e3f8394af831.js)
 
+{
+    "plugins": ["scripts"],
+    "pluginsConfig": {
+        "scripts": {
+            "files": [
+                "https://gist.github.com/bedjan/db7d216f1237cc02e992e3f8394af831.js"
+            ]
+        }
+    }
+}
 ### Gist:
 
 [Gist](https://gist.github.com/bedjan)
