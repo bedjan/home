@@ -14,7 +14,8 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ### Html do markdown:
 
-[Html do markdown]https://domchristie.github.io/to-markdown/
+[Html do markdown primo soubor](https://cloudconvert.com/html-to-md)
+[Html do markdown](https://domchristie.github.io/to-markdown/)
 
 ### Odkazy:
 
