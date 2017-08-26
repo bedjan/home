@@ -1,4 +1,4 @@
-# Home [www](https://docs.google.com/document/d/1HHX6lUrBitA7MKG9I4NhMNbLqz6P9LDxsYvNWeiaeWo/edit)
+# Home [www](https://docs.google.com/document/d/1HHX6lUrBitA7MKG9I4NhMNbLqz6P9LDxsYvNWeiaeWo/edit?usp=sharing)
 
 ### Gist:
 
